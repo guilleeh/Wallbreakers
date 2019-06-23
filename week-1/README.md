@@ -4,7 +4,7 @@
 
 -   [x] Sort Array By Parity [Link](https://leetcode.com/problems/sort-array-by-parity)
 -   [x] transpose-matrix [Link](https://leetcode.com/problems/transpose-matrix)
--   [ ] flipping-an-image [Link](https://leetcode.com/problems/flipping-an-image)
+-   [x] flipping-an-image [Link](https://leetcode.com/problems/flipping-an-image)
 
 ## Basic math
 
