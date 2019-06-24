@@ -8,7 +8,7 @@
 
 ## Basic math
 
--   [ ] Self-Dividing-Numbers [Link](https://leetcode.com/problems/self-dividing-numbers)
+-   [x] Self-Dividing-Numbers [Link](https://leetcode.com/problems/self-dividing-numbers)
 -   [ ] Fizz-Buzz [Link](https://leetcode.com/problems/fizz-buzz)
 -   [ ] Plus-one [Link](https://leetcode.com/problems/plus-one)
 -   [ ] Excel-sheet-column-number[Link](https://leetcode.com/problems/excel-sheet-column-number)
