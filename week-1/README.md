@@ -9,16 +9,16 @@
 ## Basic math
 
 -   [x] Self-Dividing-Numbers [Link](https://leetcode.com/problems/self-dividing-numbers)
--   [ ] Fizz-Buzz [Link](https://leetcode.com/problems/fizz-buzz)
--   [ ] Plus-one [Link](https://leetcode.com/problems/plus-one)
+-   [x] Fizz-Buzz [Link](https://leetcode.com/problems/fizz-buzz)
+-   [x] Plus-one [Link](https://leetcode.com/problems/plus-one)
 -   [ ] Excel-sheet-column-number[Link](https://leetcode.com/problems/excel-sheet-column-number)
--   [ ] Power-of-two [Link](https://leetcode.com/problems/power-of-two)
+-   [x] Power-of-two [Link](https://leetcode.com/problems/power-of-two)
 
 ## Simple string manipulation
 
--   [ ] Reverse-string [Link](https://leetcode.com/problems/reverse-string)
+-   [x] Reverse-string [Link](https://leetcode.com/problems/reverse-string)
 -   [ ] Detect-capital [Link](https://leetcode.com/problems/detect-capital)
--   [ ] Reverse-words-in-a-string-iii [Link](https://leetcode.com/problems/reverse-words-in-a-string-iii)
+-   [x] Reverse-words-in-a-string-iii [Link](https://leetcode.com/problems/reverse-words-in-a-string-iii)
 -   [ ] Valid-palindrome [Link](https://leetcode.com/problems/valid-palindrome)
 -   [ ] Reverse-vowels-of-a-string [Link](https://leetcode.com/problems/reverse-vowels-of-a-string)
 -   [ ] Longest-common-prefix [Link](https://leetcode.com/problems/longest-common-prefix)
