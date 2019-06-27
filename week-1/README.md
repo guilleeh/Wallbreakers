@@ -19,8 +19,8 @@
 -   [x] Reverse-string [Link](https://leetcode.com/problems/reverse-string)
 -   [ ] Detect-capital [Link](https://leetcode.com/problems/detect-capital)
 -   [x] Reverse-words-in-a-string-iii [Link](https://leetcode.com/problems/reverse-words-in-a-string-iii)
--   [ ] Valid-palindrome [Link](https://leetcode.com/problems/valid-palindrome)
--   [ ] Reverse-vowels-of-a-string [Link](https://leetcode.com/problems/reverse-vowels-of-a-string)
+-   [x] Valid-palindrome [Link](https://leetcode.com/problems/valid-palindrome)
+-   [x] Reverse-vowels-of-a-string [Link](https://leetcode.com/problems/reverse-vowels-of-a-string)
 -   [ ] Longest-common-prefix [Link](https://leetcode.com/problems/longest-common-prefix)
 
 ## Simple bitwise manipulation
@@ -28,8 +28,8 @@
 -   [ ] Number-complement [Link](https://leetcode.com/problems/number-complement)
 -   [ ] Hamming-distance [Link](https://leetcode.com/problems/hamming-distance/)
 -   [ ] Binary-gap [Link](https://leetcode.com/problems/binary-gap)
--   [ ] Two-sum [Link](https://leetcode.com/problems/two-sum/)
--   [ ] Valid-anagram [Link](https://leetcode.com/problems/valid-anagram/)
+-   [x] Two-sum [Link](https://leetcode.com/problems/two-sum/)
+-   [x] Valid-anagram [Link](https://leetcode.com/problems/valid-anagram/)
 
 ## Union find
 
