@@ -1,12 +1,12 @@
 Hash maps and hash sets
 
 -   [x] Jewels-and-stones Link[https://leetcode.com/problems/jewels-and-stones/]
--   [] Unique-morse-code-words Link[https://leetcode.com/problems/unique-morse-code-words/]
+-   [x] Unique-morse-code-words Link[https://leetcode.com/problems/unique-morse-code-words/]
 -   [] Happy-number Link[https://leetcode.com/problems/happy-number/]
--   [] Uncommon-words-from-two-sentences Link[https://leetcode.com/problems/uncommon-words-from-two-sentences/]
--   [] Distributed-candies Link[https://leetcode.com/problems/distribute-candies/]
+-   [x] Uncommon-words-from-two-sentences Link[https://leetcode.com/problems/uncommon-words-from-two-sentences/]
+-   [x] Distributed-candies Link[https://leetcode.com/problems/distribute-candies/]
 -   [] Groups-of-special-equivalent-strings Link[https://leetcode.com/problems/groups-of-special-equivalent-strings/]
--   [] Intersection-of-two-arrays Link[https://leetcode.com/problems/intersection-of-two-arrays/]
+-   [x] Intersection-of-two-arrays Link[https://leetcode.com/problems/intersection-of-two-arrays/]
 -   [] Valid-sudoku Link[https://leetcode.com/problems/valid-sudoku/]
 -   [] Isomorphic-strings Link[https://leetcode.com/problems/isomorphic-strings/]
 -   [] Word-pattern Link[https://leetcode.com/problems/word-pattern/]
