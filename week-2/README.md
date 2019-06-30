@@ -17,17 +17,14 @@ Multisets
 
 -   [ ] Find-all-anagrams-in-a-string [Link](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
     -   Use a multiset for this one. You can also solve it without using one. How? Try to solve it both ways. How do the two solutions compare?
--   [ ] First-unique-character-in-a-string [Link](https://leetcode.com/problems/first-unique-character-in-a-string/)
+-   [x] First-unique-character-in-a-string [Link](https://leetcode.com/problems/first-unique-character-in-a-string/)
 -   [ ] Subdomain-visit-count [Link](https://leetcode.com/problems/subdomain-visit-count/)
 -   [ ] Find-the-difference[Link](https://leetcode.com/problems/find-the-difference/)
--   [ ] Most-common-word [Link](https://leetcode.com/problems/most-common-word/)
+-   [x] Most-common-word [Link](https://leetcode.com/problems/most-common-word/)
 -   [ ] Sort-characters-by-frequency [Link](https://leetcode.com/problems/sort-characters-by-frequency/)
 -   [ ] Set-mistmatch [Link](https://leetcode.com/problems/set-mismatch/)
-
     -   This one has a few “clever” solutions but feel free to use a simple multiset solution.
-
 -   [ ] Number-of-atoms [Link](https://leetcode.com/problems/number-of-atoms/)
-
     -   This one is more difficult than the average interview question but it is good exercise! You will need to build a simple parser in addition to using a multiset.
 
 Tries
