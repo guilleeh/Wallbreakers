@@ -2,7 +2,7 @@ Hash maps and hash sets
 
 -   [x] Jewels-and-stones [Link](https://leetcode.com/problems/jewels-and-stones/)
 -   [x] Unique-morse-code-words [Link](https://leetcode.com/problems/unique-morse-code-words/)
--   [ ] Happy-number [Link](https://leetcode.com/problems/happy-number/)
+-   [x] Happy-number [Link](https://leetcode.com/problems/happy-number/)
 -   [x] Uncommon-words-from-two-sentences [Link](https://leetcode.com/problems/uncommon-words-from-two-sentences/)
 -   [x] Distributed-candies [Link](https://leetcode.com/problems/distribute-candies/)
 -   [ ] Groups-of-special-equivalent-strings [Link](https://leetcode.com/problems/groups-of-special-equivalent-strings/)
@@ -19,10 +19,10 @@ Multisets
     -   Use a multiset for this one. You can also solve it without using one. How? Try to solve it both ways. How do the two solutions compare?
 -   [x] First-unique-character-in-a-string [Link](https://leetcode.com/problems/first-unique-character-in-a-string/)
 -   [ ] Subdomain-visit-count [Link](https://leetcode.com/problems/subdomain-visit-count/)
--   [ ] Find-the-difference[Link](https://leetcode.com/problems/find-the-difference/)
+-   [x] Find-the-difference[Link](https://leetcode.com/problems/find-the-difference/)
 -   [x] Most-common-word [Link](https://leetcode.com/problems/most-common-word/)
--   [ ] Sort-characters-by-frequency [Link](https://leetcode.com/problems/sort-characters-by-frequency/)
--   [ ] Set-mistmatch [Link](https://leetcode.com/problems/set-mismatch/)
+-   [x] Sort-characters-by-frequency [Link](https://leetcode.com/problems/sort-characters-by-frequency/)
+-   [x] Set-mistmatch [Link](https://leetcode.com/problems/set-mismatch/)
     -   This one has a few “clever” solutions but feel free to use a simple multiset solution.
 -   [ ] Number-of-atoms [Link](https://leetcode.com/problems/number-of-atoms/)
     -   This one is more difficult than the average interview question but it is good exercise! You will need to build a simple parser in addition to using a multiset.
