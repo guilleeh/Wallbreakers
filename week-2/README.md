@@ -8,7 +8,7 @@ Hash maps and hash sets
 -   [ ] Groups-of-special-equivalent-strings [Link](https://leetcode.com/problems/groups-of-special-equivalent-strings/)
 -   [x] Intersection-of-two-arrays [Link](https://leetcode.com/problems/intersection-of-two-arrays/)
 -   [ ] Valid-sudoku [Link](https://leetcode.com/problems/valid-sudoku/)
--   [ ] Isomorphic-strings [Link](https://leetcode.com/problems/isomorphic-strings/)
+-   [x] Isomorphic-strings [Link](https://leetcode.com/problems/isomorphic-strings/)
 -   [ ] Word-pattern [Link](https://leetcode.com/problems/word-pattern/)
 -   [ ] Design-hashmap [Link](https://leetcode.com/problems/design-hashmap/)
 -   [ ] Design-hashset [Link](https://leetcode.com/problems/design-hashset/)
@@ -18,7 +18,7 @@ Multisets
 -   [ ] Find-all-anagrams-in-a-string [Link](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
     -   Use a multiset for this one. You can also solve it without using one. How? Try to solve it both ways. How do the two solutions compare?
 -   [x] First-unique-character-in-a-string [Link](https://leetcode.com/problems/first-unique-character-in-a-string/)
--   [ ] Subdomain-visit-count [Link](https://leetcode.com/problems/subdomain-visit-count/)
+-   [x] Subdomain-visit-count [Link](https://leetcode.com/problems/subdomain-visit-count/)
 -   [x] Find-the-difference[Link](https://leetcode.com/problems/find-the-difference/)
 -   [x] Most-common-word [Link](https://leetcode.com/problems/most-common-word/)
 -   [x] Sort-characters-by-frequency [Link](https://leetcode.com/problems/sort-characters-by-frequency/)
