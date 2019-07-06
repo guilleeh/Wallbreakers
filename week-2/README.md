@@ -7,7 +7,7 @@ Hash maps and hash sets
 -   [x] Distributed-candies [Link](https://leetcode.com/problems/distribute-candies/)
 -   [ ] Groups-of-special-equivalent-strings [Link](https://leetcode.com/problems/groups-of-special-equivalent-strings/)
 -   [x] Intersection-of-two-arrays [Link](https://leetcode.com/problems/intersection-of-two-arrays/)
--   [ ] Valid-sudoku [Link](https://leetcode.com/problems/valid-sudoku/)
+-   [x] Valid-sudoku [Link](https://leetcode.com/problems/valid-sudoku/)
 -   [x] Isomorphic-strings [Link](https://leetcode.com/problems/isomorphic-strings/)
 -   [ ] Word-pattern [Link](https://leetcode.com/problems/word-pattern/)
 -   [x] Design-hashmap [Link](https://leetcode.com/problems/design-hashmap/)
