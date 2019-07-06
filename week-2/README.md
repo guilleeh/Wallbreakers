@@ -9,7 +9,7 @@ Hash maps and hash sets
 -   [x] Intersection-of-two-arrays [Link](https://leetcode.com/problems/intersection-of-two-arrays/)
 -   [x] Valid-sudoku [Link](https://leetcode.com/problems/valid-sudoku/)
 -   [x] Isomorphic-strings [Link](https://leetcode.com/problems/isomorphic-strings/)
--   [ ] Word-pattern [Link](https://leetcode.com/problems/word-pattern/)
+-   [x] Word-pattern [Link](https://leetcode.com/problems/word-pattern/)
 -   [x] Design-hashmap [Link](https://leetcode.com/problems/design-hashmap/)
 -   [x] Design-hashset [Link](https://leetcode.com/problems/design-hashset/)
 
@@ -29,6 +29,6 @@ Multisets
 
 Tries
 
--   [ ] Longest-word-in-dictionary [Link](https://leetcode.com/problems/longest-word-in-dictionary)
--   [ ] Implement-trie-prefix-tree [Link](https://leetcode.com/problems/implement-trie-prefix-tree)
+-   [x] Longest-word-in-dictionary [Link](https://leetcode.com/problems/longest-word-in-dictionary)
+-   [x] Implement-trie-prefix-tree [Link](https://leetcode.com/problems/implement-trie-prefix-tree)
 -   [ ] Word-search-ii [Link](https://leetcode.com/problems/word-search-ii)
