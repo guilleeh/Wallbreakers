@@ -10,8 +10,8 @@ Hash maps and hash sets
 -   [ ] Valid-sudoku [Link](https://leetcode.com/problems/valid-sudoku/)
 -   [x] Isomorphic-strings [Link](https://leetcode.com/problems/isomorphic-strings/)
 -   [ ] Word-pattern [Link](https://leetcode.com/problems/word-pattern/)
--   [ ] Design-hashmap [Link](https://leetcode.com/problems/design-hashmap/)
--   [ ] Design-hashset [Link](https://leetcode.com/problems/design-hashset/)
+-   [x] Design-hashmap [Link](https://leetcode.com/problems/design-hashmap/)
+-   [x] Design-hashset [Link](https://leetcode.com/problems/design-hashset/)
 
 Multisets
 
