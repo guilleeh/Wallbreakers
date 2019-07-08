@@ -30,9 +30,9 @@
 -   [ ] House-robber-ii [Link](https://leetcode.com/problems/house-robber-ii)
     -   Do not use a built-in regex for this one: https://leetcode.com/problems/regular-expression-matching/
 
-##Dynamic Programming
+## Dynamic Programming
 
-###Same problems as above, but use dynamic programming this time
+### Same problems as above, but use dynamic programming this time
 
 -   [ ] Best-time-to-buy-and-sell-stock [Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)
 -   [ ] Edit-distance [Link](https://leetcode.com/problems/edit-distance)
