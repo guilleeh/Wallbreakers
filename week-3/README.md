@@ -15,7 +15,7 @@
 
 ## Sorting
 
--   [ ] Valid-anagram [Link](https://leetcode.com/problems/valid-anagram)
+-   [x] Valid-anagram [Link](https://leetcode.com/problems/valid-anagram)
 -   [ ] Array-partition-i [Link](https://leetcode.com/problems/array-partition-i)
 -   [ ] Merge-intervals [Link](https://leetcode.com/problems/merge-intervals)
     -   Use sorting, not a multiset (you solved this problem using a multiset last week) https://leetcode.com/problems/find-all-anagrams-in-a-string
