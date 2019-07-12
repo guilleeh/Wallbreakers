@@ -10,13 +10,13 @@
 
 ## Binary search
 
--   [ ] Binary-search [Link](https://leetcode.com/problems/binary-search)
+-   [x] Binary-search [Link](https://leetcode.com/problems/binary-search)
 -   [ ] Peak-index-in-a-mountain-array [Link](https://leetcode.com/problems/peak-index-in-a-mountain-array)
 
 ## Sorting
 
 -   [x] Valid-anagram [Link](https://leetcode.com/problems/valid-anagram)
--   [ ] Array-partition-i [Link](https://leetcode.com/problems/array-partition-i)
+-   [x] Array-partition-i [Link](https://leetcode.com/problems/array-partition-i)
 -   [ ] Merge-intervals [Link](https://leetcode.com/problems/merge-intervals)
     -   Use sorting, not a multiset (you solved this problem using a multiset last week) https://leetcode.com/problems/find-all-anagrams-in-a-string
 
