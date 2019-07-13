@@ -18,14 +18,14 @@
 -   [x] Valid-anagram [Link](https://leetcode.com/problems/valid-anagram)
 -   [x] Array-partition-i [Link](https://leetcode.com/problems/array-partition-i)
 -   [ ] Merge-intervals [Link](https://leetcode.com/problems/merge-intervals)
--   [ ] Use sorting, not a multiset (you solved this problem using a multiset last week) https://leetcode.com/problems/find-all-anagrams-in-a-string
+-   [x] Use sorting, not a multiset (you solved this problem using a multiset last week) https://leetcode.com/problems/find-all-anagrams-in-a-string
 
 ## Recursion and Memoization
 
 ### make sure you use memoization if applicable for the problems below
 
 -   [x] Powx-n [Link](https://leetcode.com/problems/powx-n)
--   [ ] Best-time-to-buy-and-sell-stock [Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)
+-   [x] Best-time-to-buy-and-sell-stock [Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)
 -   [ ] Edit-distance [Link](https://leetcode.com/problems/edit-distance)
 -   [ ] House-robber-ii [Link](https://leetcode.com/problems/house-robber-ii)
 -   [ ] Do not use a built-in regex for this one: https://leetcode.com/problems/regular-expression-matching/
