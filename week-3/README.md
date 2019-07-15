@@ -2,9 +2,9 @@
 
 ## Greedy algorithms
 
--   [ ] Lemonade-change [Link](https://leetcode.com/problems/lemonade-change)
--   [ ] Assign-cookies [Link](https://leetcode.com/problems/assign-cookies)
--   [ ] Is-subsequence [Link](https://leetcode.com/problems/is-subsequence)
+-   [x] Lemonade-change [Link](https://leetcode.com/problems/lemonade-change)
+-   [x] Assign-cookies [Link](https://leetcode.com/problems/assign-cookies)
+-   [x] Is-subsequence [Link](https://leetcode.com/problems/is-subsequence)
 -   [ ] Minimum-number-of-arrows-to-burst-balloons [Link](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons)
 -   [ ] Partition-labels [Link](https://leetcode.com/problems/partition-labels)
 
@@ -17,7 +17,7 @@
 
 -   [x] Valid-anagram [Link](https://leetcode.com/problems/valid-anagram)
 -   [x] Array-partition-i [Link](https://leetcode.com/problems/array-partition-i)
--   [ ] Merge-intervals [Link](https://leetcode.com/problems/merge-intervals)
+-   [x] Merge-intervals [Link](https://leetcode.com/problems/merge-intervals)
 -   [x] Use sorting, not a multiset (you solved this problem using a multiset last week) https://leetcode.com/problems/find-all-anagrams-in-a-string
 
 ## Recursion and Memoization
