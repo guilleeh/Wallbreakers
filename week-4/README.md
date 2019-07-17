@@ -2,24 +2,24 @@
 
 ## Linked Lists
 
--   [ ] Reverse-linked-list [Link](https://leetcode.com/problems/reverse-linked-list)
--   [ ] odd-even-linked-list [Link](https://leetcode.com/problems/odd-even-linked-list)
+-   [x] Reverse-linked-list [Link](https://leetcode.com/problems/reverse-linked-list)
+-   [x] odd-even-linked-list [Link](https://leetcode.com/problems/odd-even-linked-list)
 -   [ ] reverse-nodes-in-k-group [Link](https://leetcode.com/problems/reverse-nodes-in-k-group)
 -   [ ] lru-cache [Link](https://leetcode.com/problems/lru-cache)
     -   Hint: This one is a bit harder. You will need to use a doubly linked list and a hash map to get O(1) time complexity for both operations.
 
 ## Stacks
 
--   [ ] baseball-game [Link](https://leetcode.com/problems/baseball-game)
+-   [x] baseball-game [Link](https://leetcode.com/problems/baseball-game)
 -   [ ] next-greater-element-i [Link](https://leetcode.com/problems/next-greater-element-i)
--   [ ] valid-parentheses [Link](https://leetcode.com/problems/valid-parentheses)
+-   [x] valid-parentheses [Link](https://leetcode.com/problems/valid-parentheses)
 -   [ ] score-of-parentheses [Link](https://leetcode.com/problems/score-of-parentheses)
 
 ## Queues
 
 -   [ ] implement-stack-using-queues [Link](https://leetcode.com/problems/implement-stack-using-queues/)
 -   [ ] implement-queue-using-stacks [Link](https://leetcode.com/problems/implement-queue-using-stacks/)
--   [ ] rotate-array [Link](https://leetcode.com/problems/rotate-array)
+-   [x] rotate-array [Link](https://leetcode.com/problems/rotate-array)
 
 ## Heaps
 
