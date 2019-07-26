@@ -4,11 +4,11 @@
 
 -   [ ] n-ary-tree-postorder-traversal [Link](https://leetcode.com/problems/n-ary-tree-postorder-traversal)
 
--   [ ] leaf-similar-trees [Link](https://leetcode.com/problems/leaf-similar-trees)
+-   [x] leaf-similar-trees [Link](https://leetcode.com/problems/leaf-similar-trees)
 
 -   [x] same-tree [Link](https://leetcode.com/problems/same-tree)
 
--   [ ] sum-of-left-leaves [Link](https://leetcode.com/problems/sum-of-left-leaves)
+-   [x] sum-of-left-leaves [Link](https://leetcode.com/problems/sum-of-left-leaves)
 
 -   [ ] diameter-of-binary-tree [Link](https://leetcode.com/problems/diameter-of-binary-tree)
 
