@@ -2,7 +2,7 @@
 
 ## Trees
 
--   [ ] n-ary-tree-postorder-traversal [Link](https://leetcode.com/problems/n-ary-tree-postorder-traversal)
+-   [x] n-ary-tree-postorder-traversal [Link](https://leetcode.com/problems/n-ary-tree-postorder-traversal)
 
 -   [x] leaf-similar-trees [Link](https://leetcode.com/problems/leaf-similar-trees)
 
